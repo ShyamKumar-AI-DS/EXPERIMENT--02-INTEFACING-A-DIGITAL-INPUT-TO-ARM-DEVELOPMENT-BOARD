@@ -232,11 +232,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
  ### LED ON CONDITION:
 
-![out](led1.png)
+![out](led2.png)
 
 ### LED OFF CONDITION:
 
-![out](led2.png)
+![out](led1.png)
  
  
  
