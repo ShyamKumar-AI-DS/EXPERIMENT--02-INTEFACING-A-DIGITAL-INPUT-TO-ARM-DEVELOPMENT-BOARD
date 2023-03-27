@@ -53,6 +53,11 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ## STM 32 CUBE PROGRAM :
 
 ```
+Name : Shyam Kumar A 
+Reg No : 212221230098
+```
+
+```
 #include "main.h"
 
 #include"stdio.h"
@@ -225,7 +230,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- 
+ ### LED ON CONDITION:
+
+![out](led1.png)
+
+### LED OFF CONDITION:
+
+![out](led2.png)
  
  
  
